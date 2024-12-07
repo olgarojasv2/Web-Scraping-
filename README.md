@@ -1,4 +1,4 @@
-# Web-Scraping-
+# How to Web-Scrape?
 Goodreads &amp; Rijksmuseum
 
 ## Goodreads & Rijksmuseum Corpus
