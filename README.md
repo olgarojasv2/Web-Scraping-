@@ -4,7 +4,7 @@ A case study of Goodreads &amp; the Rijksmuseum
 ## Goodreads & Rijksmuseum Corpus
 
 ### Goodreads
-Goodreads corpus consists of my personal reading list in Goodreads. The aim of this corpus was to investigate how our own data in Goodreads was presented and how much of our data was collected. 
+Goodreads corpus consists of my personal reading list in Goodreads. The aim of this corpus was to investigate how our own data in Goodreads was presented and how much of our data was collected. Therefore for this main reason, I have decided not to clean the data given by Goodreads.
 This corpus is essentially text.
 
 ### Rijksmuseum 
