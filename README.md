@@ -1,5 +1,5 @@
 # Web-Scraping-
-Goodreads &amp; Rijksmuseu
+Goodreads &amp; Rijksmuseum
 
 ## Goodreads & Rijksmuseum Corpus
 
@@ -13,11 +13,11 @@ The Rijksmuseum corpus consists of a list of six paintings belonging to the Rijk
 Both corpora are divided into two CSV files, with different categories that will be explored in the next section. All the information recollected and portrayed is in English.
 
 ## Data Collection Process
+
 ### Goodreads
 Before 2020 Goodreads had an API which gave developers access to their data. Nevertheless, that changed -all information is included in the Terms and Conditions of Goodreads. Goodreads allows users to export their data in a CSV file form. 
 
 ### Rijksmuseum
-
 For the Rijksmuseum different links were used. Initially, the collections were analysed: https://www.rijksmuseum.nl/nl/collectie
 Moreover, to minimise the scope, within the collection, the portraits were used. This link was used to decide the corpus:
 https://www.rijksmuseum.nl/nl/collectie/node/Portretten--a7c5ba17a2c44f96a25b7c8e0f6fa33d?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
@@ -36,12 +36,12 @@ https://www.rijksmuseum.nl/nl/collectie/object/Portret-van-mevrouw-Marie-Jeannet
 6. <u> Isabella </u>
 https://www.rijksmuseum.nl/nl/collectie/object/Isabella--ead5f623d828c7250ce5413e809b3551?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
 
-
 ## CSV File Structure
-## Goodreads
+
+### Goodreads
 The CSV is divided into book id, title, author, additional authors, ISBN, my rating, average rating, publisher, binding, number of pages, year published, original publication year, date added, exclusive shelf, read count and owned.
 
-## Rijksmuseum
+### Rijksmuseum
 The CSV is divided into title, date, description and image_url.
 
 
