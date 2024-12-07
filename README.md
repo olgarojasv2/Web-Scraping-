@@ -22,8 +22,8 @@ For the Rijksmuseum different links were used. Initially, the collections were a
 Moreover, to minimise the scope, within the collection, the portraits were used. This link was used to decide the corpus:
 https://www.rijksmuseum.nl/nl/collectie/node/Portretten--a7c5ba17a2c44f96a25b7c8e0f6fa33d?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
 
-From that the selection of 6 paintings was made. These are the ones:
-1. Self-portrait as te Apostle Paul
+From that link, the selection of 6 paintings was made. These are the ones:
+1. Self-portrait as the Apostle Paul
 https://www.rijksmuseum.nl/nl/collectie/object/Zelfportret-als-de-apostel-Paulus--4faa97ed774e6e3f81b76cf3aed6226d?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
 2. <u> Self-Portrait Vincent van Gogh </u>
 https://www.rijksmuseum.nl/nl/collectie/object/Zelfportret--72f97ac66c33f86b161cd51d62f7d365?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
@@ -38,7 +38,7 @@ https://www.rijksmuseum.nl/nl/collectie/object/Isabella--ead5f623d828c7250ce5413
 
 
 ## CSV File Structure
-# Goodreads
+## Goodreads
 The CSV is divided into book id, title, author, additional authors, ISBN, my rating, average rating, publisher, binding, number of pages, year published, original publication year, date added, exclusive shelf, read count and owned.
 
 ## Rijksmuseum
