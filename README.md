@@ -42,7 +42,7 @@ https://www.rijksmuseum.nl/nl/collectie/object/Isabella--ead5f623d828c7250ce5413
 ## CSV File Structure
 
 ### Goodreads
-The CSV is divided into book id, title, author, additional authors, ISBN, my rating, average rating, publisher, binding, number of pages, year published, original publication year, date added, exclusive shelf, read count and owned.
+The CSV is divided into book ID, title, author, additional authors, ISBN, my rating, average rating, publisher, binding, number of pages, year published, original publication year, date added, exclusive shelf, read count and owned.
 
 ### Rijksmuseum
 The CSV is divided into title, date, description and image_url.
