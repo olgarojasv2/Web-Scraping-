@@ -4,7 +4,7 @@ A case of Goodreads &amp; the Rijksmuseum
 ## Goodreads & Rijksmuseum Corpus
 
 ### Goodreads
-Goodreads corpus consists of my personal reading list in Goodreads. For this use pandas were used. The aim of this corpus was to investigate how our own data in goodreads was presented. 
+Goodreads corpus consists of my personal reading list in Goodreads. The aim of this corpus was to investigate how our own data in Goodreads was presented and how much of our data is collected. 
 This corpus is essentially text.
 
 ### Rijksmuseum 
@@ -15,10 +15,12 @@ Both corpora are divided into two CSV files, with different categories that will
 ## Data Collection Process
 
 ### Goodreads
+Pandas was used in order to organise and visualise the data.
 Before 2020 Goodreads had an API which gave developers access to their data. Nevertheless, that changed -all information is included in the Terms and Conditions of Goodreads-. Goodreads allows users to export their data in a CSV file form. The indications of how to access your information are in this link: 
 https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs
 
 ### Rijksmuseum
+Pandas and BeautifulSoup were used to scrape and visualise the data.
 For the Rijksmuseum different links were utilised. Initially, the collections were analysed: https://www.rijksmuseum.nl/nl/collectie
 Moreover, to minimise the scope, within the collection, the portraits were employed. This link was used to decide the corpus:
 https://www.rijksmuseum.nl/nl/collectie/node/Portretten--a7c5ba17a2c44f96a25b7c8e0f6fa33d?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
