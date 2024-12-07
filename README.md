@@ -25,7 +25,7 @@ For the Rijksmuseum different links were utilised. Initially, the collections we
 Moreover, to minimise the scope, within the collection, the portraits were employed. This link was used to decide the corpus:
 https://www.rijksmuseum.nl/nl/collectie/node/Portretten--a7c5ba17a2c44f96a25b7c8e0f6fa33d?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
 
-From that link, the selection of 6 paintings was made. These are the ones:
+From that link, the selection of 6 paintings was made. All these paintings are under the label of "public domain".
 1. Self-portrait as the Apostle Paul
 https://www.rijksmuseum.nl/nl/collectie/object/Zelfportret-als-de-apostel-Paulus--4faa97ed774e6e3f81b76cf3aed6226d?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
 2. <u> Self-Portrait Vincent van Gogh </u>
