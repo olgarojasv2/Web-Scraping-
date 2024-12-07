@@ -1,4 +1,4 @@
-# How to Web-Scrape?
+# How to scrape the Web using Python?
 A case of Goodreads &amp; the Rijksmuseum
 
 ## Goodreads & Rijksmuseum Corpus
