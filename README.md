@@ -15,7 +15,8 @@ Both corpora are divided into two CSV files, with different categories that will
 ## Data Collection Process
 
 ### Goodreads
-Before 2020 Goodreads had an API which gave developers access to their data. Nevertheless, that changed -all information is included in the Terms and Conditions of Goodreads. Goodreads allows users to export their data in a CSV file form. 
+Before 2020 Goodreads had an API which gave developers access to their data. Nevertheless, that changed -all information is included in the Terms and Conditions of Goodreads. Goodreads allows users to export their data in a CSV file form. The indications how to access to your information are in this link: 
+https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs
 
 ### Rijksmuseum
 For the Rijksmuseum different links were used. Initially, the collections were analysed: https://www.rijksmuseum.nl/nl/collectie
