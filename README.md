@@ -1,10 +1,10 @@
 # How to scrape the Web using Python?
-A case of Goodreads &amp; the Rijksmuseum
+A case study of Goodreads &amp; the Rijksmuseum
 
 ## Goodreads & Rijksmuseum Corpus
 
 ### Goodreads
-Goodreads corpus consists of my personal reading list in Goodreads. The aim of this corpus was to investigate how our own data in Goodreads was presented and how much of our data is collected. 
+Goodreads corpus consists of my personal reading list in Goodreads. The aim of this corpus was to investigate how our own data in Goodreads was presented and how much of our data was collected. 
 This corpus is essentially text.
 
 ### Rijksmuseum 
