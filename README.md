@@ -1,5 +1,5 @@
 # How to Web-Scrape?
-Goodreads &amp; Rijksmuseum
+A case of Goodreads &amp; the Rijksmuseum
 
 ## Goodreads & Rijksmuseum Corpus
 
