@@ -14,7 +14,6 @@ This project demonstrates how to scrape data from the Rijksmuseum's online colle
 
 ## Data Collection
 
-### Rijksmuseum
 Pandas and BeautifulSoup were used to scrape and visualise the data.
 For the Rijksmuseum different links were utilised. Initially, the collections were analysed: https://www.rijksmuseum.nl/nl/collectie
 Moreover, to minimise the scope, within the collection, the portraits were employed. This link was used to decide the corpus:
@@ -35,8 +34,6 @@ https://www.rijksmuseum.nl/nl/collectie/object/Portret-van-mevrouw-Marie-Jeannet
 https://www.rijksmuseum.nl/nl/collectie/object/Isabella--ead5f623d828c7250ce5413e809b3551?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
 
 ## Corpus Description
-
-### Rijksmuseum 
 
 The Rijksmuseum corpus consists of a list of six paintings belonging to the Rijksmuseum portrait collection. Each entry contains both visual and textual data.
 
