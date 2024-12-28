@@ -1,11 +1,7 @@
 # How to scrape the Web using Python?
-A case study of Goodreads &amp; the Rijksmuseum
+A case study of the Rijksmuseum
 
-## Goodreads & Rijksmuseum Corpus
-
-### Goodreads
-Goodreads corpus consists of my personal reading list in Goodreads. The aim of this corpus was to investigate how our own data in Goodreads was presented and how much of our data was collected. Therefore for this main reason, I have decided not to clean the data given by Goodreads.
-This corpus is essentially text.
+## Rijksmuseum Corpus
 
 ### Rijksmuseum 
 The Rijksmuseum corpus consists of a list of six paintings belonging to the Rijksmuseum portrait collection. The corpus consists of paintings and text.
@@ -13,11 +9,6 @@ The Rijksmuseum corpus consists of a list of six paintings belonging to the Rijk
 Both corpora are divided into two CSV files, with different categories that will be explored in the next section. All the information recollected and portrayed is in English.
 
 ## Data Collection Process
-
-### Goodreads
-Pandas was used in order to organise and visualise the data.
-Before 2020 Goodreads had an API which gave developers access to their data. Nevertheless, that changed -all information is included in the Terms and Conditions of Goodreads-. Goodreads allows users to export their data in a CSV file form. The indications of how to access your information are in this link: 
-https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs
 
 ### Rijksmuseum
 Pandas and BeautifulSoup were used to scrape and visualise the data.
@@ -41,22 +32,8 @@ https://www.rijksmuseum.nl/nl/collectie/object/Isabella--ead5f623d828c7250ce5413
 
 ## CSV File Structure
 
-### Goodreads
-The CSV is divided into book ID, title, author, additional authors, ISBN, my rating, average rating, publisher, binding, number of pages, year published, original publication year, date added, exclusive shelf, read count and owned.
-
 ### Rijksmuseum
 The CSV is divided into title, date, description and image_url.
-
-
-## Terms and Conditions Goodreads
-As part of our overall commitment to continually improve our data management, Goodreads no longer issues new developer keys for our public developer API and plans to retire the current version of these tools. While we assess the value of APIs to determine how to support them in the future, we continue to support active API users who meet our terms of service. You are welcome to give your feedback on Goodreads APIs by completing the developer API survey.
-
-You can follow these steps if you'd like to export your data from the site:
-
-To import or export your books, go to My Books, then click on Import and Export under Tools on the left. From there:
-
-To Import your books from a .csv, .txt, or .xls file, click choose file under Import from a File, select the file from your computer, then click on Import Books. The batch upload may take several minutes to process, depending on how large your file is.
-To Export your books to a .csv file, click on the Export Library button at the top of the screen, below the Export heading, then wait for the file to generate. This may take some time if you have a large library. If successful, you will see a Your export from (date) - (time) note below the button. Click on that text to download the csv file.
 
 ## Terms and Conditions Rijksmuseum
 ### Introduction Information and Data Policy
