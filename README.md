@@ -1,14 +1,18 @@
 # How to scrape the Web using Python?
 A case study of the Rijksmuseum
 
-## Rijksmuseum Corpus
+## Overview
+This project demonstrates how to scrape data from the Rijksmuseum's online collection using Python. We focus on extracting information about six paintings from the museum's portrait collection, showcasing the power of web scraping for art historical research.
 
-### Rijksmuseum 
-The Rijksmuseum corpus consists of a list of six paintings belonging to the Rijksmuseum portrait collection. The corpus consists of paintings and text.
+## Project Structure
+1. Data Collection
+2. Corpus Description
+3. Tools and Libraries
+4. Scraping Process
+5. Data Structure
+6. Ethical Considerations
 
-Both corpora are divided into two CSV files, with different categories that will be explored in the next section. All the information recollected and portrayed is in English.
-
-## Data Collection Process
+## Data Collection
 
 ### Rijksmuseum
 Pandas and BeautifulSoup were used to scrape and visualise the data.
@@ -30,10 +34,34 @@ https://www.rijksmuseum.nl/nl/collectie/object/Portret-van-mevrouw-Marie-Jeannet
 6. <u> Isabella </u>
 https://www.rijksmuseum.nl/nl/collectie/object/Isabella--ead5f623d828c7250ce5413e809b3551?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
 
-## CSV File Structure
+## Corpus Description
 
-### Rijksmuseum
-The CSV is divided into title, date, description and image_url.
+### Rijksmuseum 
+
+The Rijksmuseum corpus consists of a list of six paintings belonging to the Rijksmuseum portrait collection. Each entry contains both visual and textual data.
+
+Both corpora are divided into two CSV files, with different categories that will be explored in the next section. All the information recollected and portrayed is in English.
+
+## Tools and Libraries
+
+We used the following Python libraries for web scraping and data processing:
+Pandas: For data manipulation and CSV file creation
+BeautifulSoup: For parsing HTML and extracting data
+
+## Scraping Process
+1. Initialize the Python project and import necessary libraries
+2. Connect to the target URLs using requests
+3. Parse the HTML content with BeautifulSoup
+4. Extract relevant data (title, date, description, image URL)
+5. Store the extracted data in a structured format (CSV)
+
+## Data Structure
+
+The scraped data is stored in a CSV file with the following columns:
+- Title
+- Date
+- Description
+- Image URL
 
 ## Terms and Conditions Rijksmuseum
 ### Introduction Information and Data Policy
