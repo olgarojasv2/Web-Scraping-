@@ -57,8 +57,6 @@ The scraped data is stored in a CSV file with the following columns:
 
 ## Rijksmuseum Open Data Policy
 
-The following information is being extracted from this link : https://www.rijksmuseum.nl/en/research/conduct-research/data/policy 
-
 Our collection is for everyone. That’s why the Rijksmuseum makes its digitised collections and metadata available in the highest quality. And we don’t ask for anything in return.
 
 ### Public domain
@@ -68,4 +66,6 @@ All the digital reproductions and data that we currently publish via our data se
 
 When collections objects are free of copyright, this is explicitly stated in the corresponding descriptive metadata. In these cases, the copyright notice states “Public domain”, with a reference to the CC0 Public Domain Statement.
 
-Therefore, all the images and the pictures extracted formed part of "public domain", meaning that the informated formed part of "public property" and can use for research purposes.
+Information extracted from https://www.rijksmuseum.nl/en/research/conduct-research/data/policy 
+
+Consequently, all images and pictures extracted are classified as being within the "public domain." This classification indicates that the information is considered "public property" and may be utilized for research purposes.
