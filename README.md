@@ -14,10 +14,9 @@ This project demonstrates how to scrape data from the Rijksmuseum's online colle
 
 ## Data Collection
 
-Pandas and BeautifulSoup were used to scrape and visualise the data.
-For the Rijksmuseum different links were utilised. Initially, the collections were analysed: https://www.rijksmuseum.nl/nl/collectie
-Moreover, to minimise the scope, within the collection, the portraits were employed. This link was used to decide the corpus:
-https://www.rijksmuseum.nl/nl/collectie/node/Portretten--a7c5ba17a2c44f96a25b7c8e0f6fa33d?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
+- Pandas and BeautifulSoup were used to scrape and visualise the data.
+- Initially, the collections were analysed: https://www.rijksmuseum.nl/nl/collectie
+- Moreover, to minimise the scope, within the collection, the portraits were employed. This link was used to decide the corpus: https://www.rijksmuseum.nl/nl/collectie/node/Portretten--a7c5ba17a2c44f96a25b7c8e0f6fa33d?collectionSearchContext=Art&page=1&sortingType=Popularity&facets[0].id=a7c5ba17a2c44f96a25b7c8e0f6fa33d&facets[0].nodeRelationType=HasRijksTheme
 
 From that link, the selection of 4 paintings was made. All these paintings are under the label of "public domain".
 1. Self-portrait as the Apostle Paul
