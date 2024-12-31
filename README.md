@@ -55,24 +55,17 @@ The scraped data is stored in a CSV file with the following columns:
 - Description
 - Image URL
 
-## Terms and Conditions Rijksmuseum
-### Introduction Information and Data Policy
-The Rijksmuseum links individuals with art and history. Information and data play a vital role in making these connections possible. The Rijksmuseum's Information and Data Policy aims to share information and data about our collections with as many people as possible. While we make our information and data as openly available as possible, we also ensure the protection of sensitive and confidential information, such as personal data.
+## Rijksmuseum Open Data Policy
 
-### What does the policy cover?
-The Information and Data Policy outlines:
+The following information is being extracted from this link : https://www.rijksmuseum.nl/en/research/conduct-research/data/policy 
 
-How the Rijksmuseum handles information and data related to the collection.
-What users are allowed to do with our information and data.
-What information and data we share, and the circumstances under which restrictions apply, such as privacy regulations or agreements with other parties.
-We adhere to (inter)national standards to facilitate collaboration and the exchange of information. We also use open software formats wherever possible to promote the use of our information and data.
+Our collection is for everyone. That’s why the Rijksmuseum makes its digitised collections and metadata available in the highest quality. And we don’t ask for anything in return.
 
-### Why an Information and Data Policy?
-Since 2011/12, the Rijksmuseum has been sharing information and data through an open data policy, which was expanded in 2024. With the rapid growth of digital technology and the increase in digital research, more information and data about our collection and organisation have become available. The variety of data types has also increased. Our policy explains how we manage this wealth of information and data and make it as accessible as possible. We collaborate with the national and international heritage community, where standardisation, cooperation, and knowledge sharing are increasingly important.
+### Public domain
+Many of the objects in the Rijksmuseum are in the public domain. This means that copyright is no longer applicable and that the objects are public property. The public must be able to reap the benefits of that. You can therefore use digital reproductions of public domain objects made available by the Rijksmuseum without permission being required. For commercial purposes too.
 
-### What can you do with our information and data?
-According to our policy, much of the information and data on the Rijksmuseum's collection website and through our open data services can be freely used, including for commercial purposes, without needing to request permission. In some cases, however, usage restrictions apply, which are indicated on our collection website.
+All the digital reproductions and data that we currently publish via our data services are made by the Rijksmuseum. To the extent that copyright and database rights apply to these digital sources, the Rijksmuseum waives these rights by using the Creative Commons Zero (CC0) Public Domain Statement.
 
-For much of the information and data on the collection website, you will find a Public Domain or Creative Commons Zero (CC0) Public Domain Dedication under the copyright notice, meaning you can use the material freely This means that the material is either free of copyright or the Rijksmuseum has waived its rights.
-In some cases, copyright does apply. If so, a Creative Commons BY 4.0 (CC BY 4.0) licence is indicated. This allows you to use the material, as long as you acknowledge the Rijksmuseum as the source.
-The collection website also contains information and data that are not freely available, such as photographs of objects that are still under copyright. In these cases, the copyright holder is indicated in the copyright notice.
+When collections objects are free of copyright, this is explicitly stated in the corresponding descriptive metadata. In these cases, the copyright notice states “Public domain”, with a reference to the CC0 Public Domain Statement.
+
+Therefore, all the images and the pictures extracted formed part of "public domain", meaning that the informated formed part of "public property" and can use for research purposes.
